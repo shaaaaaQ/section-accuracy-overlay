@@ -9,7 +9,7 @@ export default defineConfig({
   base: './',
   resolve: {
     alias: {
-      $fonts: resolve("./public/fonts")
+      $fonts: resolve("./src/fonts")
     }
   }
 })

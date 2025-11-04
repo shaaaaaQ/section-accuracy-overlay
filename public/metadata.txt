@@ -1,0 +1,7 @@
+Usecase: ingame, obs-overlay
+Name: Section Accuracy
+Version: 1
+Author: shaaaaaQ
+CompatibleWith: tosu
+Resolution: 493x388
+authorLinks: https://github.com/shaaaaaQ

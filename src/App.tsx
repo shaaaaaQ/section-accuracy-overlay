@@ -11,7 +11,7 @@ export default function App() {
 
   return (
     <div className={clsx(
-      "w-[493px] bg-black/80 rounded text-zinc-200 transition-opacity",
+      "w-[493px] bg-black/50 rounded text-zinc-200 transition-opacity",
       gameState === "play" ? "opacity-100 duration-750" : "opacity-0"
     )}>
       {scores.map((score, index) => (

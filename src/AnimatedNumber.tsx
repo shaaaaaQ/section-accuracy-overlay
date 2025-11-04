@@ -20,7 +20,7 @@ export default function AnimatedNumber({ value, className, decimalPlaces = 0 }: 
     useEffect(() => {
         return springValue.on("change", (latest) => {
             const fixed = Number(latest.toFixed(decimalPlaces));
-            setDisplayValue(Math.round(fixed));
+            setDisplayValue(fixed);
         });
     }, [springValue, decimalPlaces]);
 
