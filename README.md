@@ -3,5 +3,6 @@ Tosu用Overlay
 data.jsonにがんばって追加して
 
 ```ts
+// "osu" | "taiko" | "catch" はまだ未実装
 type OsuMode = "osu" | "taiko" | "catch" | "mania_v1" | "mania_v2";
 ```
