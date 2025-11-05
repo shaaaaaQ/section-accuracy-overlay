@@ -1598,5 +1598,177 @@
             347797,
             530570
         ]
+    },
+    {
+        "name": "Fighting My Way Dan [96% Clear] Bacon Haniwa",
+        "hash": "47017dacef66a519b058ae842e6923c3",
+        "mode": "mania_v1",
+        "offsets": [
+            117350,
+            260608,
+            397771
+        ]
+    },
+    {
+        "name": "4K Luminal v2 [Luminal] Pikapikapikapi",
+        "hash": "2f1a24559a82a4f37ec4471e0b4bbef5",
+        "mode": "mania_v1",
+        "offsets": [
+            90418,
+            219101,
+            381134
+        ]
+    },
+    {
+        "name": "4K Tachyon v3 [Tachyon] chicken Little",
+        "hash": "92f2a2af9e908e4ec15a0ce5fca420e5",
+        "mode": "mania_v1",
+        "offsets": [
+            189492,
+            318649,
+            463550
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - I] [Crz]Rachel&Ice V",
+        "hash": "1d4fb57b70fbb150232ae09470e3d93b",
+        "mode": "mania_v1",
+        "offsets": [
+            148658,
+            288635,
+            382496
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - III] [Crz]Rachel&Ice V",
+        "hash": "d5c8e3875b27ca4e2a10aea3012aa63f",
+        "mode": "mania_v1",
+        "offsets": [
+            119859,
+            250070,
+            348681
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - II] [Crz]Rachel&Ice V",
+        "hash": "18c205730ec7502ece93d360dc531247",
+        "mode": "mania_v1",
+        "offsets": [
+            126083,
+            229355,
+            363732
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - IV] [Crz]Rachel&Ice V",
+        "hash": "416c18fdc15a4ea271e72e9a583dacff",
+        "mode": "mania_v1",
+        "offsets": [
+            87537,
+            263329,
+            441854
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - V] [Crz]Rachel&Ice V",
+        "hash": "7a308f5e180c13c15e02670c7efc6f26",
+        "mode": "mania_v1",
+        "offsets": [
+            123949,
+            252140,
+            369962
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - VI] [Crz]Rachel&Ice V",
+        "hash": "ca0aa0c609ec6c78f1dcb006007b2b72",
+        "mode": "mania_v1",
+        "offsets": [
+            142271,
+            296565,
+            431489
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - VII] [Crz]Rachel&Ice V",
+        "hash": "f98c33e37ffc470861e70226a2ad8929",
+        "mode": "mania_v1",
+        "offsets": [
+            182618,
+            316215,
+            466512
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - PHI φ] [Crz]Rachel&Ice V",
+        "hash": "3c564f21f2d6e35f8513afe266feb2b5",
+        "mode": "mania_v1",
+        "offsets": [
+            145999,
+            378073
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - CHI χ] [Crz]Rachel&Ice V",
+        "hash": "b8bd20d132ef3d7879a252daddbb8785",
+        "mode": "mania_v1",
+        "offsets": [
+            126216,
+            371694
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - PSI ψ] [Crz]Rachel&Ice V",
+        "hash": "48dda2d4534f2a3002181538a4874160",
+        "mode": "mania_v1",
+        "offsets": [
+            195431,
+            313011
+        ]
+    },
+    {
+        "name": "Chordjack Joker Dan [Joker - OMEGA ω] [Crz]Rachel&Jhown",
+        "hash": "17f635511f487219363783af0480d033",
+        "mode": "mania_v1",
+        "offsets": [
+            171006,
+            361414
+        ]
+    },
+    {
+        "name": "TR1PLE DAN [Stage ~ ALPHA ~] wonder5193",
+        "hash": "84bb07099cb304337ba6b5714a1beb11",
+        "mode": "mania_v1",
+        "offsets": [
+            98125,
+            257750
+        ]
+    },
+    {
+        "name": "TR1PLE DAN [Stage ~ BETA ~] wonder5193",
+        "hash": "ab26a281fcb9357301c6af8f0fe32091",
+        "mode": "mania_v1",
+        "offsets": [
+            116711,
+            241311
+        ]
+    },
+    {
+        "name": "TR1PLE DAN [Stage ~ GAMMA ~] wonder5193",
+        "hash": "0c800c444b564d0673a2166e2705e065",
+        "mode": "mania_v1",
+        "offsets": [
+            103941,
+            237231
+        ]
+    },
+    {
+        "name": "TR1PLE DAN [Last Stage ~ DELTA ~] wonder5193",
+        "hash": "e057fc0f3f6a514f183765dd682bd95a",
+        "mode": "mania_v1",
+        "offsets": [
+            113854,
+            234222
+        ]
     }
 ]
