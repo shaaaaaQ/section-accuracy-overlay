@@ -7,6 +7,6 @@ If there’s a Dan map that isn’t supported yet, please adding it to `data.jso
 
 ### Installation
 1. Install [Tosu](https://tosu.app)
-2. Download the ZIP file from the [Releases](https://github.com/shaaaaaQ/section-accuracy-overlay/releases).
+2. Download `section-accuracy-overlay.zip` from the [Releases](https://github.com/shaaaaaQ/section-accuracy-overlay/releases).
 3. Extract it.
 4. Place the extracted folder into Tosu’s `static` directory.
