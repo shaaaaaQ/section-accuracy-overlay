@@ -1448,5 +1448,155 @@
             251330,
             381879
         ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 1 - [1st Dan (Marathon)] _underjoy",
+        "hash": "9d85e749d23867de0de4c386f1bcd9c4",
+        "mode": "mania_v2",
+        "offsets": [
+            94386,
+            189166,
+            314228
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 1 - [2nd Dan (Marathon)] _underjoy",
+        "hash": "6225fbaff7826864d3d0dcb969748ba2",
+        "mode": "mania_v2",
+        "offsets": [
+            124525,
+            264958,
+            386757
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 1 - [3rd Dan (Marathon)] _underjoy",
+        "hash": "a10badbb0221cd980074af52985394f2",
+        "mode": "mania_v2",
+        "offsets": [
+            114792,
+            259064,
+            374303
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 1 - [4th Dan (Marathon)] _underjoy",
+        "hash": "c3004678a64284311c4b8122b9c24c95",
+        "mode": "mania_v2",
+        "offsets": [
+            136208,
+            276517,
+            378559
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 2 - [5th Dan (Marathon)] _underjoy",
+        "hash": "5d0bb157a5a15366e5b3f618c46a4dbc",
+        "mode": "mania_v2",
+        "offsets": [
+            175819,
+            305936,
+            465625
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 2 - [6th Dan (Marathon)] _underjoy",
+        "hash": "3e48a802afa52dd968af5e873db2d11f",
+        "mode": "mania_v2",
+        "offsets": [
+            155753,
+            321855,
+            451219
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 2 - [7th Dan (Marathon)] _underjoy",
+        "hash": "805603dbe1ffa54cc3e1de40a46db30f",
+        "mode": "mania_v2",
+        "offsets": [
+            119753,
+            232998,
+            346243
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 3 - [8th Dan (Marathon)] _underjoy",
+        "hash": "c5de0708efdb56b4081e6f922e82ca1f",
+        "mode": "mania_v2",
+        "offsets": [
+            136991,
+            310931,
+            478050
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 3 - [9th Dan (Marathon)] _underjoy",
+        "hash": "72424bc96cdcfc9093d8c131ac049cca",
+        "mode": "mania_v2",
+        "offsets": [
+            181424,
+            328095,
+            471919
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Level 3 - [10th Dan (Marathon)] _underjoy",
+        "hash": "90bba68a15429f745702dbf1d17664c2",
+        "mode": "mania_v2",
+        "offsets": [
+            161548,
+            290377,
+            417673
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Extra Level - [12th Dan - Yuugure (Marathon)] _underjoy",
+        "hash": "ec14ce28a853cf7ac1e74adbed61a820",
+        "mode": "mania_v2",
+        "offsets": [
+            111794,
+            290665,
+            421698
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Extra Level - [11th Dan - Yoake (Marathon)] _underjoy",
+        "hash": "c81ab2651fb6746d6af37f53e8830105",
+        "mode": "mania_v2",
+        "offsets": [
+            111876,
+            235101,
+            399943
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - FINAL - [14th Dan - Yami (Marathon)] _underjoy",
+        "hash": "6bd4f93291d68ec74c009a7ff94c1d40",
+        "mode": "mania_v2",
+        "offsets": [
+            126203,
+            283567,
+            423053
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - Extra Level - [13th Dan - Yoru (Marathon)] _underjoy",
+        "hash": "9068585a3e2874492da1f9a1e080d86b",
+        "mode": "mania_v2",
+        "offsets": [
+            145305,
+            285000,
+            419366
+        ]
+    },
+    {
+        "name": "4K LN Dan Courses v2 - FINAL - [15th Dan - Yume (Marathon)] _underjoy",
+        "hash": "bb1590cce46fd65a548541fe8c38a317",
+        "mode": "mania_v2",
+        "offsets": [
+            174047,
+            347797,
+            530570
+        ]
     }
 ]
