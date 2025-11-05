@@ -13,6 +13,7 @@ export function WebSocket() {
     const beatmapHashRef = useRef("")
     const mapTimingRef = useRef<MapTiming | null>(null);
     const gameStateRef = useRef(gameState);
+    const scoresRef = useRef(scores);
 
     const resetScores = () => {
         const s: Score[] = []
@@ -47,6 +48,10 @@ export function WebSocket() {
     }, [gameState]);
 
     useEffect(() => {
+        scoresRef.current = scores;
+    }, [scores]);
+
+    useEffect(() => {
         const socket = new ReconnectingWebSocket(`ws://127.0.0.1:${port}/websocket/v2`);
 
         socket.addEventListener("open", () => {
@@ -73,7 +78,7 @@ export function WebSocket() {
                     mapTimingRef.current = {
                         mode: mapData.mode,
                         hash: mapData.hash,
-                        offsets: mapData.offsets.sort()
+                        offsets: mapData.offsets.sort((a, b) => a - b)
                     }
                 } else {
                     mapTimingRef.current = null;
@@ -95,7 +100,7 @@ export function WebSocket() {
                 }
             }
 
-            const totalCurrent = getTotalNotesCount(scores);
+            const totalCurrent = getTotalNotesCount(scoresRef.current);
             const totalIncoming = getNotesCount(data.play.hits);
 
             if (totalIncoming < totalCurrent) {
@@ -108,7 +113,7 @@ export function WebSocket() {
                 const s = draft[sectionIndex];
                 if (!s) return;
 
-                // 各判定ごとに「前セクションまでの合計」を引く
+                // 各判定ごとに前セクションまでの合計を引く
                 (Object.keys(s) as (keyof Score)[]).forEach((k) => {
                     const prevTotal = draft
                         .slice(0, sectionIndex)
