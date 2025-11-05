@@ -1770,5 +1770,305 @@
             113854,
             234222
         ]
+    },
+    {
+        "name": "Regular Dan Phase I [0th Dan (Marathon)] Jinjin",
+        "hash": "403ddeb24d4deeecc75a09942640401e",
+        "mode": "mania_v1",
+        "offsets": [
+            100113,
+            190176,
+            320439
+        ]
+    },
+    {
+        "name": "Regular Dan Phase I [1st Dan (Marathon)] Jinjin",
+        "hash": "d2dde2e1cdfb0fdeaa975aea4ae33e42",
+        "mode": "mania_v1",
+        "offsets": [
+            119435,
+            260542,
+            375644
+        ]
+    },
+    {
+        "name": "Regular Dan Phase I [2nd Dan (Marathon)] Jinjin",
+        "hash": "f33d7c8df46e579996951e63746c3217",
+        "mode": "mania_v1",
+        "offsets": [
+            94643,
+            202745,
+            324740
+        ]
+    },
+    {
+        "name": "Regular Dan Phase II [4th Dan (Marathon)] Jinjin",
+        "hash": "6ef18aaf72c4f71756b0da87f7a289bc",
+        "mode": "mania_v1",
+        "offsets": [
+            149368,
+            284441,
+            415077
+        ]
+    },
+    {
+        "name": "Regular Dan Phase I [3rd Dan (Marathon)] Jinjin",
+        "hash": "b2deac5abe831acc34b4cb053f1949a1",
+        "mode": "mania_v1",
+        "offsets": [
+            129512,
+            257546,
+            419067
+        ]
+    },
+    {
+        "name": "Regular Dan Phase II [5th Dan (Marathon)] Jinjin",
+        "hash": "f198256f6da1b0a95f8e267196333045",
+        "mode": "mania_v1",
+        "offsets": [
+            119092,
+            244049,
+            369006
+        ]
+    },
+    {
+        "name": "Regular Dan Phase II [6th Dan (Marathon)] Jinjin",
+        "hash": "e0f009741295dc2912d6991f15e3fa43",
+        "mode": "mania_v1",
+        "offsets": [
+            92634,
+            262383,
+            398182
+        ]
+    },
+    {
+        "name": "Regular Dan Phase II [7th Dan (Marathon)] Jinjin",
+        "hash": "a0c3d30d75911706ef371d5bec636de3",
+        "mode": "mania_v1",
+        "offsets": [
+            135594,
+            294127,
+            405762
+        ]
+    },
+    {
+        "name": "Regular Dan Phase II [8th Dan (Marathon)] Jinjin",
+        "hash": "c7040fa644b4649be60f1586e37fe1fa",
+        "mode": "mania_v1",
+        "offsets": [
+            134731,
+            265572,
+            412464
+        ]
+    },
+    {
+        "name": "Regular Dan Phase III [9th Dan] Jinjin",
+        "hash": "4bddef566f968374652f4ec365179435",
+        "mode": "mania_v1",
+        "offsets": [
+            132357,
+            254824,
+            357036
+        ]
+    },
+    {
+        "name": "Regular Dan Phase III [10th Dan] Jinjin",
+        "hash": "71bb06db9d7acb6381aee08cb32d6d74",
+        "mode": "mania_v1",
+        "offsets": [
+            123584,
+            238645,
+            349018
+        ]
+    },
+    {
+        "name": "Regular Dan Phase III [Gamma Dan] Jinjin",
+        "hash": "22c436600e746a04e7ede85765f382c8",
+        "mode": "mania_v1",
+        "offsets": [
+            117701,
+            223038,
+            354021
+        ]
+    },
+    {
+        "name": "Regular Dan Phase III [Azimuth Dan] Jinjin",
+        "hash": "c9927b9b467c5958994ad215abb60609",
+        "mode": "mania_v1",
+        "offsets": [
+            133678,
+            237377,
+            370072
+        ]
+    },
+    {
+        "name": "Regular Dan Phase III [Zenith Dan] Jinjin",
+        "hash": "90492cfc1244bb1db82bba87eafe9cda",
+        "mode": "mania_v1",
+        "offsets": [
+            137458,
+            253768,
+            394009
+        ]
+    },
+    {
+        "name": "Dan Phase IV [Stellium Dan (Regular)] Jinjin",
+        "hash": "1d04cb7d4aa644cbf89be37a8bc02b18",
+        "mode": "mania_v1",
+        "offsets": [
+            130188,
+            284319,
+            399544
+        ]
+    },
+    {
+        "name": "LN Dan Phase I [0th Dan (Marathon)] Jinjin",
+        "hash": "04f95ed271f790090e53dbe7eff50dbd",
+        "mode": "mania_v1",
+        "offsets": [
+            103790,
+            222565,
+            303014
+        ]
+    },
+    {
+        "name": "LN Dan Phase I [1st Dan (Marathon)] Jinjin",
+        "hash": "d362b5025667785becb1dbd18e55a963",
+        "mode": "mania_v1",
+        "offsets": [
+            175340,
+            297024,
+            437872
+        ]
+    },
+    {
+        "name": "LN Dan Phase I [2nd Dan (Marathon)] Jinjin",
+        "hash": "f80fc0aa5c1ea84faf8919874f37be86",
+        "mode": "mania_v1",
+        "offsets": [
+            121277,
+            267716,
+            420697
+        ]
+    },
+    {
+        "name": "LN Dan Phase I [3rd Dan (Marathon)] Jinjin",
+        "hash": "1052047a32fa9cc8d4105723e330ada0",
+        "mode": "mania_v1",
+        "offsets": [
+            113315,
+            228575,
+            353076
+        ]
+    },
+    {
+        "name": "LN Dan Phase II [4th Dan] Jinjin",
+        "hash": "173928678c78d1fa6cff5d8ca2c07169",
+        "mode": "mania_v1",
+        "offsets": [
+            100530,
+            231538,
+            356632
+        ]
+    },
+    {
+        "name": "LN Dan Phase II [5th Dan] Jinjin",
+        "hash": "c84c3b7ace5d36c587c269aab33a0c1c",
+        "mode": "mania_v1",
+        "offsets": [
+            103917,
+            291151,
+            390490
+        ]
+    },
+    {
+        "name": "LN Dan Phase II [6th Dan] Jinjin",
+        "hash": "8aea034ea3f511394c36dcb7adb5ea9c",
+        "mode": "mania_v1",
+        "offsets": [
+            120812,
+            227193,
+            350892
+        ]
+    },
+    {
+        "name": "LN Dan Phase II [7th Dan] Jinjin",
+        "hash": "a90a6084127cb966436c1a78e5a5bc7f",
+        "mode": "mania_v1",
+        "offsets": [
+            107619,
+            237620,
+            406669
+        ]
+    },
+    {
+        "name": "LN Dan Phase II [8th Dan] Jinjin",
+        "hash": "58d31463a6ff83551d7571b1e63acba6",
+        "mode": "mania_v1",
+        "offsets": [
+            118860,
+            243932,
+            358236
+        ]
+    },
+    {
+        "name": "LN Dan Phase III [9th Dan] Jinjin",
+        "hash": "09546ec514f9fa60549a4e08478582a6",
+        "mode": "mania_v1",
+        "offsets": [
+            108212,
+            238238,
+            353722
+        ]
+    },
+    {
+        "name": "LN Dan Phase III [10th Dan] Jinjin",
+        "hash": "95862ed585b86ccf0a2dd2b0298f19aa",
+        "mode": "mania_v1",
+        "offsets": [
+            108542,
+            245163,
+            365858
+        ]
+    },
+    {
+        "name": "LN Dan Phase III [Gamma Dan] Jinjin",
+        "hash": "7bf64c587c2966db05e4bf44e8c78d72",
+        "mode": "mania_v1",
+        "offsets": [
+            115113,
+            230676,
+            374568
+        ]
+    },
+    {
+        "name": "LN Dan Phase III [Azimuth Dan] Jinjin",
+        "hash": "21a9c6b63a722f5903375497306c1c6f",
+        "mode": "mania_v1",
+        "offsets": [
+            129783,
+            240144,
+            358892
+        ]
+    },
+    {
+        "name": "LN Dan Phase III [Zenith Dan] Jinjin",
+        "hash": "4ad36f558655a1f17781038517455215",
+        "mode": "mania_v1",
+        "offsets": [
+            126200,
+            251962,
+            373343
+        ]
+    },
+    {
+        "name": "Dan Phase IV [Stellium Dan (LN)] Jinjin",
+        "hash": "5c5221176acd6b87980d80444da65dc3",
+        "mode": "mania_v1",
+        "offsets": [
+            139271,
+            278051,
+            418799
+        ]
     }
 ]
