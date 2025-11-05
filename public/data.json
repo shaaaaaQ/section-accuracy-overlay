@@ -1378,5 +1378,75 @@
             201145,
             292748
         ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part I) [1st Dan - Azure] Hylotl",
+        "hash": "e5d1812597fa21165e9fd635910a64c6",
+        "mode": "mania_v2",
+        "offsets": [
+            142430,
+            291294,
+            428090
+        ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part I) [2nd Dan - Dream] Hylotl",
+        "hash": "d76ccad2f40aa7e7f1694314ad4e6213",
+        "mode": "mania_v2",
+        "offsets": [
+            148199,
+            293570,
+            466093
+        ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part I) [3rd Dan - Soar] Hylotl",
+        "hash": "867903626efab0fabe6f661afb496455",
+        "mode": "mania_v2",
+        "offsets": [
+            148143,
+            282627,
+            440751
+        ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part II) [4th Dan - Destiny] Hylotl",
+        "hash": "faa9d5d4dfb1a8022b8b6da8a14414c4",
+        "mode": "mania_v2",
+        "offsets": [
+            151148,
+            278485,
+            415657
+        ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part II) [5th Dan - Beyond] Hylotl",
+        "hash": "a5392e7fa07673ff74223e1b8eba0369",
+        "mode": "mania_v2",
+        "offsets": [
+            118339,
+            247905,
+            365310
+        ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part III) [6th Dan - Flame] Hylotl",
+        "hash": "0df61f377b796c51151291c550cd5a5e",
+        "mode": "mania_v2",
+        "offsets": [
+            138571,
+            288208,
+            448382
+        ]
+    },
+    {
+        "name": "xfpsb 4K LN Advanced Dan Course (Part III) [Final Dan - Nirvana] Hylotl",
+        "hash": "6716a4858083a21d06494a6dcaaf282c",
+        "mode": "mania_v2",
+        "offsets": [
+            126950,
+            251330,
+            381879
+        ]
     }
 ]
