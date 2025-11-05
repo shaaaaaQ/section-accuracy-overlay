@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "helper": "node ./scripts/helper.js"
+    "helper": "node ./scripts/helper.js",
+    "gen": "node ./scripts/list.js"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",

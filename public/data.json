@@ -2410,5 +2410,215 @@
             309071,
             455586
         ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 1) [Extra-1 v3] [GS]hina",
+        "hash": "9e61e7ae2983e413db127b26767afdc9",
+        "mode": "mania_v1",
+        "offsets": [
+            137045,
+            268627,
+            389736
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 1) [Extra-2 v3] [GS]hina",
+        "hash": "3e6830ed21d90bbd160eae3fac475689",
+        "mode": "mania_v1",
+        "offsets": [
+            110955,
+            239128,
+            389780
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 1) [Extra-3 v3] [GS]hina",
+        "hash": "1202a6b7959f9a598bdd0f8351cf5ed9",
+        "mode": "mania_v1",
+        "offsets": [
+            155412,
+            323456,
+            476123
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 1) [Extra-4 v3] [GS]hina",
+        "hash": "c7dc7770f1cd02986d378fe704f005da",
+        "mode": "mania_v1",
+        "offsets": [
+            162365,
+            285763,
+            421150
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 1) [Extra-5 v3] [GS]hina",
+        "hash": "101f88b52f1b64f04fd6828c81ddf462",
+        "mode": "mania_v1",
+        "offsets": [
+            148437,
+            275153,
+            422556
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 2) [Extra-6 v3] [GS]hina",
+        "hash": "0a1fe73090bcad6ce2d196e9e75dfd78",
+        "mode": "mania_v1",
+        "offsets": [
+            117412,
+            236776,
+            388468
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 2) [Extra-7 v3] [GS]hina",
+        "hash": "60ee12c6cef518e3c7ba04d5b51204cd",
+        "mode": "mania_v1",
+        "offsets": [
+            128414,
+            248020,
+            379216
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 2) [Extra-8 v3] [GS]hina",
+        "hash": "f9a84a4c05e0b4354e410daec2082580",
+        "mode": "mania_v1",
+        "offsets": [
+            146989,
+            301124,
+            435353
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 2) [Extra-9 v3] [GS]hina",
+        "hash": "ed1cafcd4aed5a0d5dda8f4dac4405ca",
+        "mode": "mania_v1",
+        "offsets": [
+            149235,
+            297937,
+            459431
+        ]
+    },
+    {
+        "name": "Malody 4K Extra Dan v3 (Pack 2) [Ex-Final v3] [GS]hina",
+        "hash": "b0fd18434bef9b4da4f2a418f25ad653",
+        "mode": "mania_v1",
+        "offsets": [
+            136662,
+            279235,
+            441305
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.1) [Regular-0] Muses",
+        "hash": "533ac0f0aef0bd3de34059c5d3b232e5",
+        "mode": "mania_v1",
+        "offsets": [
+            87429,
+            198172,
+            319740
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.1) [Regular-1] Muses",
+        "hash": "a3f7fea39e337732d31e2dd4f54a270b",
+        "mode": "mania_v1",
+        "offsets": [
+            108695,
+            198770,
+            338356
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.1) [Regular-2] Muses",
+        "hash": "b18b5656b0dd8142c5adb8251e5a6a92",
+        "mode": "mania_v1",
+        "offsets": [
+            150474,
+            279258,
+            364663
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.1) [Regular-4] Muses",
+        "hash": "b28fc7cb829c9416faf997b72af04d1c",
+        "mode": "mania_v1",
+        "offsets": [
+            147071,
+            278334,
+            389476
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.1) [Regular-3] Muses",
+        "hash": "ccddca796ddde97c83859061b799a223",
+        "mode": "mania_v1",
+        "offsets": [
+            102800,
+            251912,
+            391355
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.2) [Regular-5] Muses",
+        "hash": "9fb905659f074ea4e9254778f4c71fc3",
+        "mode": "mania_v1",
+        "offsets": [
+            89561,
+            226977,
+            351660
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.2) [Regular-6] Muses",
+        "hash": "0deda011ab5ffa23152db78fb69a2ecb",
+        "mode": "mania_v1",
+        "offsets": [
+            116429,
+            246697,
+            386985
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.2) [Regular-7] Muses",
+        "hash": "73d16e08a9b069bb847dacb9e6c23057",
+        "mode": "mania_v1",
+        "offsets": [
+            119750,
+            259790,
+            420612
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.2) [Regular-8] Muses",
+        "hash": "07142cb5dc32b64fa83c649801721562",
+        "mode": "mania_v1",
+        "offsets": [
+            155630,
+            301668,
+            468491
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.2) [Regular-10] Muses",
+        "hash": "6ae6f7135179510ee421ab43f8b7453c",
+        "mode": "mania_v1",
+        "offsets": [
+            133133,
+            257838,
+            414947
+        ]
+    },
+    {
+        "name": "Malody 4K Regular Dans v3 (Part.2) [Regular-9] Muses",
+        "hash": "5afbe55e59e6eaffa0bf6b4459baf2a7",
+        "mode": "mania_v1",
+        "offsets": [
+            131807,
+            265223,
+            413748
+        ]
     }
 ]
