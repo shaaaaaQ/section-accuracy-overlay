@@ -1,8 +1,12 @@
-Tosu用Overlay  
-現時点でReform 2nd Alpha (DDMythical)のみ対応  
-data.jsonにがんばって追加して
+## Section Accuracy Overlay
+Tosu Overlay  
+Currently supports mania only.  
+[Supported Dan List](/DanList)  
 
-```ts
-// "osu" | "taiko" | "catch" はまだ未実装
-type OsuMode = "osu" | "taiko" | "catch" | "mania_v1" | "mania_v2";
-```
+If there’s a Dan map that isn’t supported yet, please adding it to `data.json`.
+
+### Installation
+1. Install [Tosu](https://tosu.app)
+2. Download the ZIP file from the [Releases](https://github.com/shaaaaaQ/section-accuracy-overlay/releases).
+3. Extract it.
+4. Place the extracted folder into Tosu’s `static` directory.
