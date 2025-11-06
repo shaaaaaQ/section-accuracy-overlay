@@ -1,4 +1,4 @@
-export type OsuMode = "osu" | "taiko" | "catch" | "mania_v1" | "mania_v2";
+export type OsuMode = "std" | "taiko" | "ctb" | "mania_v1" | "mania_v2";
 
 export type MapTiming = {
     mode: OsuMode
@@ -54,6 +54,17 @@ export type Tosu = {
     play: {
         playerName: string
         hits: Score
+        mods: {
+            number: number
+            name: string
+            array: {
+                acronym: string
+            }[]
+        }
+        mode: {
+            number: number
+            name: string
+        }
     }
     resultsScreen: {
         playerName: string

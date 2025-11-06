@@ -1,5 +1,5 @@
 import { useAtomValue } from "jotai";
-import { gameStateAtom, modeAtom, scoresAtom } from "./atoms";
+import { gameStateAtom, gameModeAtom, scoresAtom } from "./atoms";
 import type { Score } from "./types";
 import { calculateAccuracy } from "./utils";
 import { clsx } from "clsx";
@@ -23,7 +23,7 @@ export default function App() {
 
 
 function ScoreDisplay({ score }: { score: Score }) {
-  const mode = useAtomValue(modeAtom)
+  const mode = useAtomValue(gameModeAtom)
 
   return (
     <>
@@ -48,7 +48,7 @@ function ManiaScoreDisplay({ score, isV2 }: { score: Score, isV2: boolean }) {
   return (
     <div className="flex justify-end items-center p-4 w-full">
       <div className="text-6xl font-bold leading-none">
-        <AnimatedNumber value={acc} decimalPlaces={2} />%
+        <AnimatedNumber value={acc} decimalPlaces={2} />
       </div>
 
       <div className="grid grid-cols-3 gap-1 ml-4">

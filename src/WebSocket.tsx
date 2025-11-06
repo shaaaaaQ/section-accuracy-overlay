@@ -2,17 +2,33 @@ import { useEffect, useRef } from "react";
 import ReconnectingWebSocket from "reconnecting-websocket";
 import { mapTimings, port } from "./consts";
 import type { MapTiming, Score, Tosu } from "./types";
-import { useAtom, useSetAtom } from "jotai";
-import { gameStateAtom, modeAtom, scoresAtom } from "./atoms";
+import { useAtom } from "jotai";
+import { gameModeAtom, gameStateAtom, scoresAtom } from "./atoms";
 import { getNotesCount, getTotalNotesCount } from "./utils";
+
+function getGameMode(mode: number, mods: string[]) {
+    switch (mode) {
+        case 0: return "std"
+        case 1: return "taiko"
+        case 2: return "ctb"
+        case 3:
+            if (mods.includes("V2")) {
+                return "mania_v2"
+            } else {
+                return "mania_v1"
+            }
+        default: return null
+    }
+}
 
 export function WebSocket() {
     const [scores, setScores] = useAtom(scoresAtom)
     const [gameState, setGameState] = useAtom(gameStateAtom)
-    const setMode = useSetAtom(modeAtom)
+    const [gameMode, setGameMode] = useAtom(gameModeAtom)
     const beatmapHashRef = useRef("")
     const mapTimingRef = useRef<MapTiming | null>(null);
     const gameStateRef = useRef(gameState);
+    const gameModeRef = useRef(gameMode)
     const scoresRef = useRef(scores);
 
     const resetScores = () => {
@@ -52,6 +68,10 @@ export function WebSocket() {
     }, [scores]);
 
     useEffect(() => {
+        gameModeRef.current = gameMode;
+    }, [gameMode]);
+
+    useEffect(() => {
         const socket = new ReconnectingWebSocket(`ws://127.0.0.1:${port}/websocket/v2`);
 
         socket.addEventListener("open", () => {
@@ -66,6 +86,13 @@ export function WebSocket() {
                 console.log("Game state changed to:", data.state.name);
             }
 
+            const currentGameMode = getGameMode(data.play.mode.number, data.play.mods.array.map(m => m.acronym));
+
+            if (currentGameMode !== gameModeRef.current) {
+                setGameMode(currentGameMode);
+                console.log("Game mode changed to:", currentGameMode);
+            }
+
             if (data.beatmap.checksum !== beatmapHashRef.current) {
                 beatmapHashRef.current = data.beatmap.checksum;
                 console.log("New beatmap detected:", data.beatmap.title, data.beatmap.version, data.beatmap.mapper);
@@ -74,7 +101,6 @@ export function WebSocket() {
                 const mapData = mapTimings.find(m => m.hash === beatmapHashRef.current) || null;
 
                 if (mapData) {
-                    setMode(mapData.mode)
                     mapTimingRef.current = {
                         mode: mapData.mode,
                         hash: mapData.hash,
