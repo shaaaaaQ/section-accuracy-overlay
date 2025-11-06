@@ -1,7 +1,7 @@
 ## Section Accuracy Overlay
 Tosu Overlay  
 Currently supports taiko and mania.  
-[Supported Dan List](/DanList)  
+[Supported Dan List](/DanList.txt)  
 
 If there’s a Dan map that isn’t supported yet, please add it to `data.json`.
 
