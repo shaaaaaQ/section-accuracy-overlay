@@ -14,7 +14,6 @@ const savePath = path.resolve(__dirname, "../public/data.json");
 const maps = JSON.parse(fs.readFileSync(savePath, "utf8"));
 
 let currentData = null;
-let currentMode = "mania_v1";
 
 const socket = new ReconnectingWebSocket(`ws://127.0.0.1:${PORT}/websocket/v2`);
 
@@ -36,17 +35,10 @@ const rl = readline.createInterface({
     output: process.stdout,
 });
 
-console.log("Type commands: `mode {name}`, `a` to add offset, Ctrl+C to exit");
+console.log("Type `a` to add offset, Ctrl+C to exit");
 
 rl.on("line", (input) => {
     const args = input.trim().split(" ");
-
-    // mode切り替え
-    if (args[0] === "mode" && args[1]) {
-        currentMode = args[1];
-        console.log(`Mode set to ${currentMode}`);
-        return;
-    }
 
     // offset追加
     if (args[0] === "a") {
@@ -61,12 +53,11 @@ rl.on("line", (input) => {
 
         let map = maps.find((m) => m.hash === checksum);
         if (!map) {
-            map = { name, hash: checksum, mode: currentMode, offsets: [] };
+            map = { name, hash: checksum, offsets: [] };
             maps.push(map);
             console.log(`New map added: ${name}`);
         }
 
-        map.mode = currentMode;
         map.offsets.push(time);
         map.offsets.sort((a, b) => a - b);
 
