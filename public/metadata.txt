@@ -3,5 +3,5 @@ Name: Section Accuracy
 Version: 1
 Author: shaaaaaQ
 CompatibleWith: tosu
-Resolution: 493x388
+Resolution: 455x388
 authorLinks: https://github.com/shaaaaaQ
